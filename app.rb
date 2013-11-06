@@ -1,8 +1,7 @@
+class App < Sinatra::Base
+  
+  get '/' do
+    erb :home
+  end
 
-get '/' do
-  "Hello, world"
-end
-
-get '/test' do
-  "Hello"
 end
