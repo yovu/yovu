@@ -248,55 +248,17 @@
     </div>
     <!-- END PAGE | WORK -->
 
-    <!-- PAGE | CLIENTS -->
-    <div class="pages page-clients" id="page-clients">
-        <div class="container">
-            <h4 class="line-divider-inline center">Satisfied clients</h4>
-            <!-- Client logos -->
-            <div class="row-fluid">
-                <div class="span2 center">
-                    <img src="http://placehold.it/180x70" alt="Treble">
-                </div>
-                <div class="span2 center">
-                    <img src="http://placehold.it/180x70" alt="Treble">
-                </div>
-                <div class="span2 center">
-                    <img src="http://placehold.it/180x70" alt="Treble">
-                </div>
-                <div class="span2 center">
-                    <img src="http://placehold.it/180x70" alt="Treble">
-                </div>
-                <div class="span2 center">
-                    <img src="http://placehold.it/180x70" alt="Treble">
-                </div>
-                <div class="span2 center">
-                    <img src="http://placehold.it/180x70" alt="Treble">
-                </div>
-            </div>
-            <!-- Short text related to client's -->
-            <div class="row-fluid">
-                <div class="span8 offset2 center smallFontBy08">
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- END PAGE | CLIENTS -->
-
     <!-- PAGE | FEATURES  -->
     <div class="pages white paralax page-features" id="page-features">
         <div class="overlay"></div>
         <div class="container">
              <!-- Header -->
             <header>
-                <h4 class="line-divider">Features</h4>
-                <h1>What's Inside</h1>
+                <h4 class="line-divider">How Can We Help</h4>
                 <div class="row">
                     <div class="span8 offset2">
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                            Your website is often the first glimpse a customer sees of your business and everyone knows that first impressions last a lifetime. We create websites that not only look great, but work great too. By creating a design that works across all mediums, we build a cohesive brand that customers can’t forget. You’ve got one chance to do it right, and we can help.
                         </p>
                     </div>
                 </div>
@@ -309,18 +271,24 @@
                 <div class="row-fluid">
                     <div class="span4 center">
                         <img src="assets/images/pages/features/about01.png" alt="Treble">
-                        <h5>Responsive</h5>
-                        <p class="smallFontBy08 cutBy10">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <h5>Web Developer</h5>
+                        <p class="smallFontBy08 cutBy10">
+                          We are passionate about building businesses. Have an idea you want to launch? We will help plan and develop your application tailored to your goals.
+                        </p>
                     </div>
                     <div class="span4 center">
                         <img src="assets/images/pages/features/about02.png" alt="Treble">
-                        <h5>Bootstrap based</h5>
-                        <p class="smallFontBy08 cutBy10">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <h5>Rescue</h5>
+                        <p class="smallFontBy08 cutBy10">
+                          Have a project in need of saving? We can step into an existing project and try to bring it back to life.
+                        </p>
                     </div>
                     <div class="span4 center">
                         <img src="assets/images/pages/features/about03.png" alt="Treble">
-                        <h5>Easy to customize</h5>
-                        <p class="smallFontBy08 cutBy10">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <h5>Scale</h5>
+                        <p class="smallFontBy08 cutBy10">
+                          Go big when you need it, we know how to help you handle seriously huge amounts of traffic.
+                        </p>
                     </div>
                 </div>
                 <!-- Testemonials -->
