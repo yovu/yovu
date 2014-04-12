@@ -8,7 +8,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
     <meta name="description" content="Treble theme - One Page Responsive Theme - Gridelicious.net">
-    <title>Treble - One Page Responsive Theme - Gridelicious.net</title>
+    <title>Yovu</title>
 
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/images/ico/apple-touch-icon-144-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/images/ico/apple-touch-icon-114-precomposed.png">
@@ -30,7 +30,7 @@
                 <div class="span12 center">
                     <!-- LOGO -->
                     <a class="brand pull-left" href="./">
-                        <img src="assets/images/logo.png" alt="Treble">
+                        <img src="assets/images/logo.png" alt="Yovu" style="height: 32px;">
                     </a>
                     <!-- END LOGO -->
 
@@ -53,15 +53,6 @@
                     </ul>
                     <!-- END MAIN MENU -->
 
-                    <!-- SOCIAL ICONS -->
-                    <div class="social-icons hover-big pull-right">
-                        <a href="#" class="sicon-facebook"><i>Facebook</i></a>
-                        <a href="#" class="sicon-twitter"><i>Twitter</i></a>
-                        <a href="#" class="sicon-linkedin"><i>LinkedIn</i></a>
-                        <a href="#" class="sicon-youtube"><i>Youtube</i></a>
-                        <a href="#" class="sicon-pinterest"><i>Pinterest</i></a>
-                    </div>
-                    <!-- END SOCIAL ICONS -->
                 </div>
             </div>
         </div>
@@ -104,13 +95,7 @@
                             </ul>
                         </div>
                         <p>One page responsive HTML5 template.</p>
-                        <div class="social-icons sicon-white bordered">
-                            <a href="#" class="sicon-facebook"><i>Facebook</i></a>
-                            <a href="#" class="sicon-twitter"><i>Twitter</i></a>
-                            <a href="#" class="sicon-linkedin"><i>LinkedIn</i></a>
-                            <a href="#" class="sicon-youtube"><i>Youtube</i></a>
-                            <a href="#" class="sicon-pinterest"><i>Pinterest</i></a>
-                        </div>
+                      
                     </div>
                 </div>
             </div>
@@ -817,6 +802,6 @@
 
     <!-- INITIALIZE -->
     <script src="assets/js/application/application.min.js" type="text/javascript"></script>
-    
+
 </body>
 </html>
