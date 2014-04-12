@@ -364,15 +364,9 @@
         <div class="container">
             <!-- Header -->
             <header>
-                <h4 class="line-divider">About</h4>
-                <h1>Meet The Team</h1>
-                <div class="row">
-                    <div class="span8 offset2">
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                        </p>
-                    </div>
-                </div>
+                <h4 class="line-divider">Meet The Team</h4>
+                <h1>Today anybody can make a website, but not everybody can do it well.</h1>
+                
             </header>
             <!-- End Header -->
 
