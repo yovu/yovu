@@ -452,7 +452,7 @@
                     </li>
                     <li class="span4 center">
                         <div class="item">
-                            <img style="width: 280px;" class="img-circle" src="/assets/images/pages/about/andres.jpg" alt="Yovu">
+                            <img style="width: 280px; height: 280px;" class="img-circle" src="/assets/images/pages/about/andres.jpg" alt="Yovu">
                             <div class="about-overlay img-circle">
                                 <div class="social-icons sicon-white">
                                     <a href="https://www.facebook.com/Andrewzz3" class="sicon-facebook"><i>Facebook</i></a>
