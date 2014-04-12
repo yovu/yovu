@@ -96,7 +96,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <p>We create software that matters.</p>
+                        <p>We create software that matters</p>
 
                     </div>
                 </div>
