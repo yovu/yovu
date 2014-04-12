@@ -17,7 +17,7 @@
     <link rel="shortcut icon" href="assets/images/ico/favicon.png">
 
     <!-- STYLESHEETS -->
-    <link rel="stylesheet" href="assets/style/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="assets/style/bootstrap-uncompressed.css" type="text/css" />
 
     <!-- GOOGLE WEB FONTS -->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,700,600,300,800' rel='stylesheet' type='text/css'>
@@ -83,17 +83,20 @@
                         <div class="line-divider" id="welcome-messages">
                             <ul class="slides">
                                 <li>
-                                    <h1>Hello Treble</h1>
+                                    <h1>We're Language Ninjas</h1>
                                 </li>
                                 <li>
-                                    <h1>Fresh & Clean</h1>
+                                    <h1>Code Cowboys</h1>
                                 </li>
                                 <li>
-                                    <h1>Creative & Fun</h1>
+                                    <h1>Armchair Sociologists</h1>
+                                </li>
+                                <li>
+                                    <h1>Hired Guns</h1>
                                 </li>
                             </ul>
                         </div>
-                        <p>One page responsive HTML5 template.</p>
+                        <p>We create software that matters.</p>
 
                     </div>
                 </div>
