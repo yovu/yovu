@@ -452,7 +452,7 @@
                     </li>
                     <li class="span4 center">
                         <div class="item">
-                            <img class="img-circle" src="http://placehold.it/280x280" alt="Treble">
+                            <img style="width: 280px;" class="img-circle" src="/assets/images/pages/about/andres.jpg" alt="Yovu">
                             <div class="about-overlay img-circle">
                                 <div class="social-icons sicon-white">
                                     <a href="https://www.facebook.com/Andrewzz3" class="sicon-facebook"><i>Facebook</i></a>
