@@ -270,21 +270,21 @@
                 <!-- Features blocks -->
                 <div class="row-fluid">
                     <div class="span4 center">
-                        <img src="assets/images/pages/features/about01.png" alt="Treble">
+                        <img src="assets/images/pages/features/code.png" alt="Treble">
                         <h5>Web Developer</h5>
                         <p class="smallFontBy08 cutBy10">
                           We are passionate about building businesses. Have an idea you want to launch? We will help plan and develop your application tailored to your goals.
                         </p>
                     </div>
                     <div class="span4 center">
-                        <img src="assets/images/pages/features/about02.png" alt="Treble">
+                        <img src="assets/images/pages/features/tools.png" alt="Treble">
                         <h5>Rescue</h5>
                         <p class="smallFontBy08 cutBy10">
                           Have a project in need of saving? We can step into an existing project and try to bring it back to life.
                         </p>
                     </div>
                     <div class="span4 center">
-                        <img src="assets/images/pages/features/about03.png" alt="Treble">
+                        <img src="assets/images/pages/features/settings.png" alt="Treble">
                         <h5>Scale</h5>
                         <p class="smallFontBy08 cutBy10">
                           Go big when you need it, we know how to help you handle seriously huge amounts of traffic.
