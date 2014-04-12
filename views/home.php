@@ -111,12 +111,12 @@
             <!-- Header -->
             <header>
                 <h4 class="line-divider">Work</h4>
-                <h1>Portfolio</h1>
+                <h1>Who We've Helped</h1>
                 <!-- Short desciption about Work in general -->
                 <div class="row">
                     <div class="span8 offset2">
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
+                            You may not know it, but you've likely seen our work. We're proud to labor behind the scenes with some of the best and brightest in the business.
                         </p>
                     </div>
                 </div>
@@ -366,7 +366,7 @@
             <header>
                 <h4 class="line-divider">Meet The Team</h4>
                 <h1>Today anybody can make a website, but not everybody can do it well.</h1>
-                
+
             </header>
             <!-- End Header -->
 
