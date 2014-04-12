@@ -499,7 +499,7 @@
                 <div class="row">
                     <div class="span8 offset2">
                         <p>
-                            We like to create things with fun, open-minded people. Feel free to say hello! We'll respond as soon as possible.
+                            Want to hire us? We love to work with great clients and make their ideas become a reality.
                         </p>
                     </div>
                 </div>
