@@ -383,16 +383,14 @@
                     <li class="span4 center">
                          <div class="item">
                             <!-- Team member image -->
-                            <img class="img-circle" src="http://placehold.it/280x280" alt="Treble">
+                            <img style="width: 280px;" class="img-circle" src="/assets/images/pages/about/dan.jpg" alt="Yovu">
 
                             <!-- Team memeber details, activated on hover -->
                             <div class="about-overlay img-circle">
                                 <div class="social-icons sicon-white">
-                                    <a href="#" class="sicon-facebook"><i>Facebook</i></a>
-                                    <a href="#" class="sicon-twitter"><i>Twitter</i></a>
-                                    <a href="#" class="sicon-linkedin"><i>LinkedIn</i></a>
-                                    <a href="#" class="sicon-youtube"><i>Youtube</i></a>
-                                    <a href="#" class="sicon-pinterest"><i>Pinterest</i></a>
+                                    <a href="https://www.facebook.com/drkyro" class="sicon-facebook"><i>Facebook</i></a>
+                                    <a href="http://twitter.com/drkyro" class="sicon-twitter"><i>Twitter</i></a>
+                                    <a href="https://www.linkedin.com/pub/dainel-vera/54/b6/674" class="sicon-linkedin"><i>LinkedIn</i></a>
                                 </div>
                             </div>
                         </div>
@@ -403,19 +401,14 @@
                             <small>Lead Developer</small>
                         </h5>
 
-                        <!-- Team member short info -->
-                        <p class="smallFontBy08">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,consectetur adipisicing elit.</p>
                     </li>
                     <li class="span4 center">
                         <div class="item">
-                            <img class="img-circle" src="http://placehold.it/280x280" alt="Treble">
+                            <img style="width: 280px;" class="img-circle" src="/assets/images/pages/about/joshua.jpg" alt="Yovu">
                             <div class="about-overlay img-circle">
                                 <div class="social-icons sicon-white">
-                                    <a href="#" class="sicon-facebook"><i>Facebook</i></a>
-                                    <a href="#" class="sicon-twitter"><i>Twitter</i></a>
-                                    <a href="#" class="sicon-linkedin"><i>LinkedIn</i></a>
-                                    <a href="#" class="sicon-youtube"><i>Youtube</i></a>
-                                    <a href="#" class="sicon-pinterest"><i>Pinterest</i></a>
+                                    <a href="https://www.facebook.com/TheDigit" class="sicon-facebook"><i>Facebook</i></a>
+                                    <a href="http://www.twitter.com/_joshuam_" class="sicon-twitter"><i>Twitter</i></a>
                                 </div>
                             </div>
                         </div>
@@ -424,18 +417,13 @@
                             Joshua Martinez<br/>
                             <small>Creative Director</small>
                         </h5>
-                        <p class="smallFontBy08">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,consectetur adipisicing elit.</p>
                     </li>
                     <li class="span4 center">
                         <div class="item">
-                            <img class="img-circle" src="http://placehold.it/280x280" alt="Treble">
+                            <img style="width: 280px;" class="img-circle" src="/assets/images/pages/about/abraham.jpg" alt="Treble">
                             <div class="about-overlay img-circle">
                                 <div class="social-icons sicon-white">
-                                    <a href="#" class="sicon-facebook"><i>Facebook</i></a>
-                                    <a href="#" class="sicon-twitter"><i>Twitter</i></a>
-                                    <a href="#" class="sicon-linkedin"><i>LinkedIn</i></a>
-                                    <a href="#" class="sicon-youtube"><i>Youtube</i></a>
-                                    <a href="#" class="sicon-pinterest"><i>Pinterest</i></a>
+                                    <a href="https://www.facebook.com/Maharba" class="sicon-facebook"><i>Facebook</i></a>
                                 </div>
                             </div>
                         </div>
@@ -444,18 +432,13 @@
                             Abraham Cha con<br/>
                             <small>Developer</small>
                         </h5>
-                        <p class="smallFontBy08">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,consectetur adipisicing elit.</p>
                     </li>
                     <li class="span4 center">
                         <div class="item">
                             <img class="img-circle" src="http://placehold.it/280x280" alt="Treble">
                             <div class="about-overlay img-circle">
                                 <div class="social-icons sicon-white">
-                                    <a href="#" class="sicon-facebook"><i>Facebook</i></a>
-                                    <a href="#" class="sicon-twitter"><i>Twitter</i></a>
-                                    <a href="#" class="sicon-linkedin"><i>LinkedIn</i></a>
-                                    <a href="#" class="sicon-youtube"><i>Youtube</i></a>
-                                    <a href="#" class="sicon-pinterest"><i>Pinterest</i></a>
+                                    <a href="https://www.facebook.com/Andrewzz3" class="sicon-facebook"><i>Facebook</i></a>
                                 </div>
                             </div>
                         </div>
@@ -464,9 +447,8 @@
                             Andres Serrano<br/>
                             <small>Developer</small>
                         </h5>
-                        <p class="smallFontBy08">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,consectetur adipisicing elit.</p>
                     </li>
-                                        
+
                 </ul>
             </article>
             <!-- End Article -->
