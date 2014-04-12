@@ -7,14 +7,14 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
-    <meta name="description" content="Treble theme - One Page Responsive Theme - Gridelicious.net">
+    <meta name="description" content="Miami based web design firm. Creating responsive websites, great user interface and user experience, and great native apps. Available for consultation.">
     <title>Yovu</title>
 
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/images/ico/apple-touch-icon-144-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/images/ico/apple-touch-icon-114-precomposed.png">
-      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/images/ico/apple-touch-icon-72-precomposed.png">
-                    <link rel="apple-touch-icon-precomposed" href="assets/images/ico/apple-touch-icon-57-precomposed.png">
-                                   <link rel="shortcut icon" href="assets/images/ico/favicon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="assets/images/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="assets/images/ico/favicon.png">
 
     <!-- STYLESHEETS -->
     <link rel="stylesheet" href="assets/style/bootstrap.css" type="text/css" />
@@ -47,7 +47,6 @@
                         <li><a href="#page-welcome">Home</a></li>
                         <li><a href="#page-work">Work</a></li>
                         <li><a href="#page-features">Features</a></li>
-                        <li><a href="#page-about">About</a></li>
                         <li><a href="#page-blog">Blog</a></li>
                         <li><a href="#page-contact">Contact</a></li>
                     </ul>
@@ -71,12 +70,12 @@
                         <div class="logo">
                             <div class="scrollNormal">
                                 <a href="#page-work">
-                                    <img src="assets/images/pages/welcome/logo_welcome.png" width="140" height="140" alt="Treble">
+                                    <img src="assets/images/pages/welcome/logo_welcome.png" width="140" height="140" alt="Yovu" style="max-width: 224px!important; width: 224px; margin: -44px 0px 0px -48px;">
                                 </a>
                             </div>
                             <div class="scrollDown">
                                 <a href="#page-work">
-                                    <img src="assets/images/pages/welcome/logo2_welcome.png" width="140" height="140" alt="Treble">
+                                    <img src="assets/images/pages/welcome/logo2_welcome.png" width="140" height="140" alt="Yovu">
                                 </a>
                             </div>
                         </div>
@@ -95,7 +94,7 @@
                             </ul>
                         </div>
                         <p>One page responsive HTML5 template.</p>
-                      
+
                     </div>
                 </div>
             </div>
@@ -532,155 +531,6 @@
 
     </div>
     <!-- END PAGE | TWITTER -->
-
-    <!-- PAGE | BLOG -->
-    <div class="pages page-blog" id="page-blog">
-        <div class="container">
-            <!-- Header -->
-            <header>
-                <h4 class="line-divider">Blog</h4>
-                <h1>Recent Blog Posts</h1>
-                <div class="row">
-                    <div class="span8 offset2">
-                        <div class="input-append">
-                          <input class="span5" id="appendedInputButton" type="text" placeholder="Search Blog">
-                          <button class="btn btn-primary sicon-search sicon-white" type="button"><i>Search</i></button>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Sub menu -->
-                <nav class="submenu">
-                    <ul>
-                        <li>
-                            <a href="./pages/blog/blog.html">All</a>
-                        </li>
-                        <li>
-                            <a href="./pages/blog/blog.html">Technology</a>
-                        </li>
-                        <li>
-                            <a href="./pages/blog/blog.html">Design</a>
-                        </li>
-                        <li>
-                            <a href="./pages/blog/blog.html">Future trends</a>
-                        </li>
-                        <li>
-                            <a href="./pages/blog/blog.html">Photography</a>
-                        </li>
-                        <li>
-                            <a href="./pages/blog/blog.html">Other</a>
-                        </li>
-                    </ul>
-                </nav>
-            </header>
-            <!-- End Header -->
-
-            <!-- Article -->
-            <article>
-                <!-- Blog articles -->
-                <ul class="thumbnails">
-                    <!-- Blog post -->
-                    <li class="span4">
-
-                        <!-- Blog image -->
-                        <a href="./pages/blog/blog_1.html">
-                            <img src="http://placehold.it/390x300" alt="Treble">
-                        </a>
-
-                        <!-- Blog title -->
-                        <h5>
-                            Blog Post Title<br/>
-                            <small>April 10, 2013</small>
-                        </h5>
-
-                        <!-- Blog post description -->
-                        <p class="smallFontBy08">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,consectetur adipisicing elit.</p>
-
-                        <!-- Blog read more -->
-                        <div class="read-more">
-                            <a href="./pages/blog/blog_1.html">Read More...</a>
-                        </div>
-                    </li>
-                    <li class="span4">
-                        <a href="./pages/blog/blog_2.html">
-                            <img src="http://placehold.it/390x300" alt="Treble">
-                        </a>
-                        <h5>
-                            Blog Post Title<br/>
-                            <small>April 10, 2013</small>
-                        </h5>
-                        <p class="smallFontBy08">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,consectetur adipisicing elit.</p>
-                        <div class="read-more">
-                            <a href="./pages/blog/blog_2.html">Read More...</a>
-                        </div>
-                    </li>
-                    <li class="span4">
-                        <a href="./pages/blog/blog_3.html">
-                            <img src="http://placehold.it/390x300" alt="Treble">
-                        </a>
-                        <h5>
-                            Blog Post Title<br/>
-                            <small>April 10, 2013</small>
-                        </h5>
-                        <p class="smallFontBy08">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,consectetur adipisicing elit.</p>
-                        <div class="read-more">
-                            <a href="./pages/blog/blog_3.html">Read More...</a>
-                        </div>
-                    </li>
-                    <li class="span4">
-                        <a href="./pages/blog/blog_4.html">
-                            <img src="http://placehold.it/390x300" alt="Treble">
-                        </a>
-                        <h5>
-                            Blog Post Title<br/>
-                            <small>April 10, 2013</small>
-                        </h5>
-                        <p class="smallFontBy08">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,consectetur adipisicing elit.</p>
-                        <div class="read-more">
-                            <a href="./pages/blog/blog_4.html">Read More...</a>
-                        </div>
-                    </li>
-                    <li class="span4">
-                        <a href="./pages/blog/blog_5.html">
-                            <img src="http://placehold.it/390x300" alt="Treble">
-                        </a>
-                        <h5>
-                            Blog Post Title<br/>
-                            <small>April 10, 2013</small>
-                        </h5>
-                        <p class="smallFontBy08">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,consectetur adipisicing elit.</p>
-                        <div class="read-more">
-                            <a href="./pages/blog/blog_5.html">Read More...</a>
-                        </div>
-                    </li>
-                    <li class="span4">
-                        <a href="./pages/blog/blog_6.html">
-                            <img src="http://placehold.it/390x300" alt="Treble">
-                        </a>
-                        <h5>
-                            Blog Post Title<br/>
-                            <small>April 10, 2013</small>
-                        </h5>
-                        <p class="smallFontBy08">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,consectetur adipisicing elit.</p>
-                        <div class="read-more">
-                            <a href="./pages/blog/blog_6.html">Read More...</a>
-                        </div>
-                    </li>
-                </ul>
-            </article>
-            <!-- End Article -->
-
-            <!-- Footer -->
-            <footer>
-                <!-- More blog posts -->
-                <div class="show-more-cube">
-                    <a href="./pages/blog/blog.html"><span>All Blog<br/>Posts</span></a>
-                </div>
-            </footer>
-            <!-- End Footer -->
-        </div>
-    </div>
-    <!-- END PAGE | BLOG -->
 
     <!-- PAGE | CONTACT -->
     <div class="pages black-bg white page-contact" id="page-contact">
