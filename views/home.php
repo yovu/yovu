@@ -45,10 +45,10 @@
                     <!-- MAIN MENU -->
                     <ul id="main-menu" class="nav-collapse collapse">
                         <li><a href="#page-welcome">Home</a></li>
-                        <li><a href="#page-work">Work</a></li>
-                        <li><a href="#page-features">Features</a></li>
-                        <li><a href="#page-blog">Blog</a></li>
-                        <li><a href="#page-contact">Contact</a></li>
+                        <li><a href="#page-work">Our Work</a></li>
+                        <li><a href="#page-features">How We Can Help</a></li>
+                        <li><a href="#page-about">About</a></li>
+                        <li><a href="#page-contact">Contact Us</a></li>
                     </ul>
                     <!-- END MAIN MENU -->
 
@@ -399,8 +399,8 @@
 
                         <!-- Team member name and function -->
                         <h5>
-                            Joanna doe<br/>
-                            <small>Creative director</small>
+                            Dainel Vera<br/>
+                            <small>Lead Developer</small>
                         </h5>
 
                         <!-- Team member short info -->
@@ -421,8 +421,8 @@
                         </div>
 
                         <h5>
-                            Joanna doe<br/>
-                            <small>Creative director</small>
+                            Joshua Martinez<br/>
+                            <small>Creative Director</small>
                         </h5>
                         <p class="smallFontBy08">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,consectetur adipisicing elit.</p>
                     </li>
@@ -441,8 +441,8 @@
                         </div>
 
                         <h5>
-                            Joanna doe<br/>
-                            <small>Creative director</small>
+                            Abraham Cha con<br/>
+                            <small>Developer</small>
                         </h5>
                         <p class="smallFontBy08">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,consectetur adipisicing elit.</p>
                     </li>
@@ -461,51 +461,12 @@
                         </div>
 
                         <h5>
-                            Joanna doe<br/>
-                            <small>Creative director</small>
+                            Andres Serrano<br/>
+                            <small>Developer</small>
                         </h5>
                         <p class="smallFontBy08">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,consectetur adipisicing elit.</p>
                     </li>
-                    <li class="span4 center">
-                         <div class="item">
-                            <img class="img-circle" src="http://placehold.it/280x280" alt="Treble">
-                            <div class="about-overlay img-circle">
-                                <div class="social-icons sicon-white">
-                                    <a href="#" class="sicon-facebook"><i>Facebook</i></a>
-                                    <a href="#" class="sicon-twitter"><i>Twitter</i></a>
-                                    <a href="#" class="sicon-linkedin"><i>LinkedIn</i></a>
-                                    <a href="#" class="sicon-youtube"><i>Youtube</i></a>
-                                    <a href="#" class="sicon-pinterest"><i>Pinterest</i></a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <h5>
-                            Joanna doe<br/>
-                            <small>Creative director</small>
-                        </h5>
-                        <p class="smallFontBy08">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,consectetur adipisicing elit.</p>
-                    </li>
-                    <li class="span4 center">
-                         <div class="item">
-                            <img class="img-circle" src="http://placehold.it/280x280" alt="Treble">
-                            <div class="about-overlay img-circle">
-                                <div class="social-icons sicon-white">
-                                    <a href="#" class="sicon-facebook"><i>Facebook</i></a>
-                                    <a href="#" class="sicon-twitter"><i>Twitter</i></a>
-                                    <a href="#" class="sicon-linkedin"><i>LinkedIn</i></a>
-                                    <a href="#" class="sicon-youtube"><i>Youtube</i></a>
-                                    <a href="#" class="sicon-pinterest"><i>Pinterest</i></a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <h5>
-                            Joanna doe<br/>
-                            <small>Creative director</small>
-                        </h5>
-                        <p class="smallFontBy08">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua,consectetur adipisicing elit.</p>
-                    </li>
+                                        
                 </ul>
             </article>
             <!-- End Article -->
