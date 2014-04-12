@@ -12,7 +12,7 @@
   $app->run();
 
   function home() {
-		echo "You shall not pass";
+  	include('views/home.php');
 	}
 
 ?>
