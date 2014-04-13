@@ -165,23 +165,7 @@ $(document).ready(function(){
         onMixEnd: null
     });
 
-    /**
-    *   PAGE | Twitter
-    *
-    *   Pull latest tweets from user.
-    *   Configuration: /plugins/twitter/index.php
-    */
-    $('#twitterfeed-slider').tweet({
-        modpath: 'plugins/twitter/',
-        username: 'drkyro',
-        count: 3,
-        loading_text: "loading tweets..."
-    });
-
-    $('#twitterfeed-slider').tweetCarousel({
-        interval: 7000,
-        pause: "hover"
-    });
+    
 });
 
 

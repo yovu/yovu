@@ -110,7 +110,7 @@
         <div class="container">
             <!-- Header -->
             <header>
-                <h4 class="line-divider">Work</h4>
+                <h4 class="line-divider">Our Work</h4>
                 <h1>Who We've Helped</h1>
                 <!-- Short desciption about Work in general -->
                 <div class="row">
@@ -435,34 +435,14 @@
     </div>
     <!-- END PAGE | ABOUT -->
 
-    <!-- PAGE | TWITTER -->
-    <div class="pages white paralax page-twitter" id="page-twitter">
-        <!-- Page overlay -->
-        <div class="overlay"></div>
-
-        <!-- Block content -->
-        <div class="container">
-             <div class="row-fluid">
-                <div class="span8 offset2">
-                    <div class="twitter-devider"></div>
-                    <!-- Load Twitter boostrap container -->
-                    <div class="twitterfeed center slide" id="twitterfeed-slider"></div>
-
-                    <!-- Sub title / Name of twitter account -->
-                    <h5 class="center">@drkyro</h5>
-                </div>
-            </div>
-        </div>
-
-    </div>
-    <!-- END PAGE | TWITTER -->
+    
 
     <!-- PAGE | CONTACT -->
     <div class="pages black-bg white page-contact" id="page-contact">
         <div class="container">
             <!-- Header -->
             <header>
-                <h4 class="line-divider">Contact</h4>
+                <h4 class="line-divider">Contact Us</h4>
                 <h1>Say hello!</h1>
                 <div class="row">
                     <div class="span8 offset2">
