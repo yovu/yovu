@@ -254,7 +254,7 @@
         <div class="container">
              <!-- Header -->
             <header>
-                <h4 class="line-divider">How Can We Help</h4>
+                <h4 class="line-divider" style="color: #ffffff;">How Can We Help</h4>
                 <div class="row">
                     <div class="span8 offset2">
                         <p>
