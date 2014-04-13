@@ -408,7 +408,7 @@
                         </div>
 
                         <h5>
-                            Abraham Cha con<br/>
+                            Abraham Chacon<br/>
                             <small>Developer</small>
                         </h5>
                     </li>
