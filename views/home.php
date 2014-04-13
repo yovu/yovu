@@ -449,7 +449,7 @@
                     <div class="twitterfeed center slide" id="twitterfeed-slider"></div>
 
                     <!-- Sub title / Name of twitter account -->
-                    <h5 class="center">@TheGridelicous</h5>
+                    <h5 class="center">@drkyro</h5>
                 </div>
             </div>
         </div>
@@ -576,7 +576,7 @@
 
 
     <!-- INITIALIZE -->
-    <script src="assets/js/application/application.min.js" type="text/javascript"></script>
+    <script src="assets/js/application/source/application.js" type="text/javascript"></script>
 
 </body>
 </html>
