@@ -47,7 +47,7 @@
                         <li><a href="#page-welcome">Home</a></li>
                         <li><a href="#page-work">Our Work</a></li>
                         <li><a href="#page-features">How We Can Help</a></li>
-                        <li><a href="#page-about">About</a></li>
+                        <li><a href="#page-about">About Us</a></li>
                         <li><a href="#page-contact">Contact Us</a></li>
                     </ul>
                     <!-- END MAIN MENU -->
@@ -435,7 +435,7 @@
     </div>
     <!-- END PAGE | ABOUT -->
 
-    
+
 
     <!-- PAGE | CONTACT -->
     <div class="pages black-bg white page-contact" id="page-contact">
@@ -461,10 +461,10 @@
                     <div class="span6">
                         <h5>Drop Us A Line</h5>
                         <form>
-                            <input type="text" class="span12" placeholder="Title" required="required">
+                            <input type="text" class="span12" placeholder="Name" required="required">
                             <input type="email" class="span12" placeholder="Email" required="required">
                             <textarea rows="10" class="span12" required="required"></textarea>
-                            <button type="submit" class="btn btn-primary">Submit</button>
+                            <button type="submit" class="btn btn-primary">Send Your Message</button>
                         </form>
                     </div>
                     <!-- End Contact form -->
@@ -476,7 +476,7 @@
                                 <a href="#" class="sicon-phone"><i>Phone</i></a>
                             </div>
                             <div class="media-body smallFontBy08">
-                                (+1) 502 964-0393 | (+1) 502 964-0393 (FAX)
+                                (+1) 502 964-0393
                             </div>
                         </div>
                         <div class="media">
@@ -492,7 +492,7 @@
                                 <a href="#" class="sicon-mail"><i>email</i></a>
                             </div>
                             <div class="media-body smallFontBy08">
-                                mail@crollify.com
+                                info@yovu.co
                             </div>
                         </div>
                         <div class="media">
@@ -508,11 +508,9 @@
                         <br/>
                         <h5>Get social</h5>
                         <div class="social-icons sicon-white bordered">
-                            <a href="#" class="sicon-facebook"><i>Facebook</i></a>
-                            <a href="#" class="sicon-twitter"><i>Twitter</i></a>
-                            <a href="#" class="sicon-linkedin"><i>LinkedIn</i></a>
-                            <a href="#" class="sicon-youtube"><i>Youtube</i></a>
-                            <a href="#" class="sicon-pinterest"><i>Pinterest</i></a>
+                            <a href="https://www.facebook.com/yovuninjas" class="sicon-facebook"><i>Facebook</i></a>
+                            <a href="https://twitter.com/YovuNinjas" class="sicon-twitter"><i>Twitter</i></a>
+                            <a href="https://github.com/yovu" class="sicon-github"><i>Github</i></a>
                         </div>
                     </div>
                     <!-- End Contact information -->
