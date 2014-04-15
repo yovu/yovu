@@ -18,6 +18,8 @@
 
     <!-- STYLESHEETS -->
     <link rel="stylesheet" href="assets/style/bootstrap-uncompressed.css" type="text/css" />
+    <link rel="stylesheet" href="assets/style/font-awesome.css" type="text/css" />
+		
 
     <!-- GOOGLE WEB FONTS -->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,700,600,300,800' rel='stylesheet' type='text/css'>
@@ -469,49 +471,23 @@
                     </div>
                     <!-- End Contact form -->
                     <!-- Contact information -->
-                    <div class="span5 offset1">
-                        <h5>Meet Us</h5>
-                        <div class="media">
-                            <div class="social-icons sicon-white pull-left">
-                                <a href="#" class="sicon-phone"><i>Phone</i></a>
-                            </div>
-                            <div class="media-body smallFontBy08">
-                                (+1) 502 964-0393
-                            </div>
-                        </div>
-                        <div class="media">
-                            <div class="social-icons sicon-white pull-left">
-                                <a href="#" class="sicon-place"><i>Location</i></a>
-                            </div>
-                            <div class="media-body smallFontBy08">
-                                1095 Columbus Ave., San Francisco, CA 94133
-                            </div>
-                        </div>
-                        <div class="media">
-                            <div class="social-icons sicon-white pull-left">
-                                <a href="#" class="sicon-mail"><i>email</i></a>
-                            </div>
-                            <div class="media-body smallFontBy08">
-                                info@yovu.co
-                            </div>
-                        </div>
-                        <div class="media">
-                            <div class="social-icons sicon-white pull-left">
-                                <a href="#" class="sicon-clock"><i>Time zone</i></a>
-                            </div>
-                            <div class="media-body smallFontBy08">
-                                UTC / GMT -5
-                            </div>
-                        </div>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <h5>Get social</h5>
-                        <div class="social-icons sicon-white bordered">
-                            <a href="https://www.facebook.com/yovuninjas" class="sicon-facebook"><i>Facebook</i></a>
-                            <a href="https://twitter.com/YovuNinjas" class="sicon-twitter"><i>Twitter</i></a>
-                            <a href="https://github.com/yovu" class="sicon-github"><i>Github</i></a>
-                        </div>
+                    <div class="span5 offset1" style="margin-top: 64px;">
+											
+											<div class="contact-side">
+											  <div class="contact-phone">
+											    GIVE US A CALL
+											    <span>+1 333.333.3333</span>
+											  </div>
+											  <div class="contact-social">
+											    FOLLOW US
+											    <span>
+											      <a class="twitter" href="http://twitter.com/YovuNinjas"><i class="fa fa-twitter"></i></a>
+											      <a class="facebook" href="https://www.facebook.com/yovuninjas"><i class="fa fa-facebook"></i></a>
+											      <a class="github" href="http://github.com/yovu"><i class="fa fa-github"></i></a>
+											    </span>
+											  </div>
+											</div>             
+											                        
                     </div>
                     <!-- End Contact information -->
                 </div>

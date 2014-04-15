@@ -569,6 +569,45 @@
 /*
 *   PAGE | CONTACT
 */
+
+.contact-side {
+	float: left;
+	width: 386px;
+	font-weight: 500;
+}
+
+.contact-phone {
+	background: #4e808e;
+	color: #FFF;
+}
+
+.contact-phone span {
+	float: right;
+	font-weight: 600;
+}
+
+.contact-form input[type=text], .contact-phone, .contact-social {
+	padding: 10px 15px;
+	margin-bottom: 20px;
+}
+
+.contact-social {
+	background: #f0f0f0;
+	color: #333;
+}
+
+.contact-social span {
+	float: right;
+}
+
+.contact-social .twitter, .contact-social .github, .contact-social .facebook, .contact-social .google {
+  display: block;
+  width: 27px;
+  height: 27px;
+  float: left;
+  margin-left: 10px; 
+}
+
 .page-contact {
   position: relative;
   padding-bottom: 50px;
