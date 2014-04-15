@@ -622,6 +622,10 @@
 	margin: -3px 0px 0px 0px;
 }
 
+input[class*="error"] {
+	border: 1px solid red!important;
+}
+
 .page-contact {
   position: relative;
   padding-bottom: 50px;

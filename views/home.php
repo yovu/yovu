@@ -21,6 +21,35 @@
     <link rel="stylesheet" href="assets/style/bootstrap-uncompressed.css" type="text/css" />
     <link rel="stylesheet" href="assets/style/font-awesome.css" type="text/css" />
 		
+    <!-- JQUERY -->
+    <script src="assets/js/jquery-1.10.2.min.js" type="text/javascript"></script>
+
+
+    <!-- TWITTER BOOTSTRAP -->
+    <script src="assets/js/bootstrap/bootstrap.min.js" type="text/javascript"></script>
+    <!--[if lt IE 9]>
+        <script src="assets/js/bootstrap/html5shiv.js"></script>
+    <![endif]-->
+
+
+    <!-- PLUGINS -->
+    <script src="assets/js/plugins/jquery.bxslider.min.js" type="text/javascript"></script>
+    <script src="assets/js/plugins/jquery.centralized.min.js" type="text/javascript"></script>
+    <script src="assets/js/plugins/jquery.fixedonlater.min.js" type="text/javascript"></script>
+    <script src="assets/js/plugins/jquery.hashloader.min.js" type="text/javascript"></script>
+    <script src="assets/js/plugins/jquery.mixitup.min.js" type="text/javascript"></script>
+    <script src="assets/js/plugins/jquery.nav.min.js" type="text/javascript"></script>
+    <script src="assets/js/plugins/jquery.parallax-1.1.3.min.js" type="text/javascript"></script>
+    <script src="assets/js/plugins/jquery.responsivevideos.min.js" type="text/javascript"></script>
+    <script src="assets/js/plugins/jquery.scrollTo.min.js" type="text/javascript"></script>
+    <script src="assets/js/plugins/jquery.tweet.min.js" type="text/javascript"></script>
+    <script src="assets/js/plugins/jquery.tweetCarousel.min.js" type="text/javascript"></script>
+		<script src="assets/js/plugins/source/jquery.validate.js" type="text/javascript"></script>
+
+
+    <!-- INITIALIZE -->
+    <script src="assets/js/application/source/application.js" type="text/javascript"></script>
+		
 
     <!-- GOOGLE WEB FONTS -->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,700,600,300,800' rel='stylesheet' type='text/css'>
@@ -456,29 +485,29 @@
                 </div>
             </header>
             <!-- End Header -->
-
+						
             <!-- Start Article -->
             <article>
                 <div class="row-fluid">
                     <!-- Contact form -->
                     <div class="span6">
                         <h5>Drop Us A Line</h5>
-                        <form>
-                            <input type="text" class="span12" placeholder="Name" required="required">
-                            <input type="email" class="span12" placeholder="Email" required="required">
+                        <form id="dropUsALine" autocomplete="off">
+                            <input type="text" name="fullname" class="span12" placeholder="Name">
+                            <input type="email" name="email" class="span12" placeholder="Email">
 														
 														<p style="margin: 0px;">I'd like to contact Yovu about:</p>
 														<div class="contact-subject">
 														  <label for="subject-features">
-														    <input id="subject-features" name="subject[]" type="checkbox" value="Features">
+														    <input id="subject-features" name="subject[]" type="checkbox" value="Development">
 														    Development
 														  </label>
 														  <label for="subject-scaling">
-														    <input id="subject-scaling" name="subject[]" type="checkbox" value="Scaling">
+														    <input id="subject-scaling" name="subject[]" type="checkbox" value="Rescue">
 														    Rescue
 														  </label>
 														  <label for="subject-apis">
-														    <input id="subject-apis" name="subject[]" type="checkbox" value="API's">
+														    <input id="subject-apis" name="subject[]" type="checkbox" value="Scaling">
 														    Scaling
 														  </label>
 														  <label for="subject-other">
@@ -522,35 +551,6 @@
         </div>
     </div>
     <!-- END PAGE | CONTACT -->
-
-
-    <!-- JQUERY -->
-    <script src="assets/js/jquery-1.10.2.min.js" type="text/javascript"></script>
-
-
-    <!-- TWITTER BOOTSTRAP -->
-    <script src="assets/js/bootstrap/bootstrap.min.js" type="text/javascript"></script>
-    <!--[if lt IE 9]>
-        <script src="assets/js/bootstrap/html5shiv.js"></script>
-    <![endif]-->
-
-
-    <!-- PLUGINS -->
-    <script src="assets/js/plugins/jquery.bxslider.min.js" type="text/javascript"></script>
-    <script src="assets/js/plugins/jquery.centralized.min.js" type="text/javascript"></script>
-    <script src="assets/js/plugins/jquery.fixedonlater.min.js" type="text/javascript"></script>
-    <script src="assets/js/plugins/jquery.hashloader.min.js" type="text/javascript"></script>
-    <script src="assets/js/plugins/jquery.mixitup.min.js" type="text/javascript"></script>
-    <script src="assets/js/plugins/jquery.nav.min.js" type="text/javascript"></script>
-    <script src="assets/js/plugins/jquery.parallax-1.1.3.min.js" type="text/javascript"></script>
-    <script src="assets/js/plugins/jquery.responsivevideos.min.js" type="text/javascript"></script>
-    <script src="assets/js/plugins/jquery.scrollTo.min.js" type="text/javascript"></script>
-    <script src="assets/js/plugins/jquery.tweet.min.js" type="text/javascript"></script>
-    <script src="assets/js/plugins/jquery.tweetCarousel.min.js" type="text/javascript"></script>
-
-
-    <!-- INITIALIZE -->
-    <script src="assets/js/application/source/application.js" type="text/javascript"></script>
 
 </body>
 </html>

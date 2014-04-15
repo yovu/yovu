@@ -1,4 +1,25 @@
 $(document).ready(function(){
+	
+		$("#dropUsALine").validate({
+			rules: {
+				fullname: {
+					required: true
+				},
+				email: {
+					required: true,
+					email: true
+				}
+			},
+			errorPlacement: function(error, element) {
+			
+			},
+			submitHandler: function(form) { 
+			  alert("Do some stuff...");
+			  //submit via ajax
+				return false;  //This doesn't prevent the form from submitting.
+			}
+		});	
+		
     /**
     *   Global variables.
     */
