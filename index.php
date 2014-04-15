@@ -25,8 +25,8 @@
 		# Now, compose and send your message.
 		$mg->sendMessage($domain, array('from'    => 'postmaster@sandbox77528.mailgun.org', 
 		                                'to'      => 'info@yovu.co', 
-		                                'subject' => 'The PHP SDK is awesome!', 
-		                                'text'    => 'It is so simple to send a message.'));
+		                                'subject' => 'New Line From Yovu', 
+		                                'html'    => 'Name: '.$_GET['fullname'].'<br> Email: '.$_GET['email'].' '));
 																		
 	}
 
