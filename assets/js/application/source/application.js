@@ -14,8 +14,21 @@ $(document).ready(function(){
 			
 			},
 			submitHandler: function(form) { 
-			  alert("Do some stuff...");
-			  //submit via ajax
+				$.ajax({
+				    type: "POST",
+				    url: "/process/email",
+				    data: $(form).serialize(),
+				    success: function () {
+				        $(form).html("<div id='message'></div>");
+				        $('#message').html("<h2>Your request is on the way!</h2>")
+				            .append("<p>someone</p>")
+				            .hide()
+				            .fadeIn(1500, function () {
+				            $('#message').append("<img id='checkmark' src='images/ok.png' />");
+				        });
+				    }
+				});
+			  
 				return false;  //This doesn't prevent the form from submitting.
 			}
 		});	
