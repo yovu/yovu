@@ -633,7 +633,6 @@
 }
 .page-contact form input[type='email'],
 .page-contact form input[type='text'] {
-  background-color: #CCCCCC;
   color: #666666;
   font-size: 0.8em;
 }

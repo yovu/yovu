@@ -465,7 +465,6 @@
                         <form>
                             <input type="text" class="span12" placeholder="Name" required="required">
                             <input type="email" class="span12" placeholder="Email" required="required">
-                            <textarea rows="10" class="span12" required="required"></textarea>
                             <button type="submit" class="btn btn-primary">Send Your Message</button>
                         </form>
                     </div>
