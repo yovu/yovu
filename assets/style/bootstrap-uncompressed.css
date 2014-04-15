@@ -7768,3 +7768,11 @@ a.badge:focus {
     overflow: visible !important;
   }
 }
+
+
+/* iPhone 5 in portrait */
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : portrait) { 
+	.contact-side {
+		width: 286px;
+	}
+}
