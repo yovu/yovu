@@ -481,9 +481,9 @@
 											  <div class="contact-social">
 											    FOLLOW US
 											    <span>
-											      <a class="twitter" href="http://twitter.com/YovuNinjas"><i class="fa fa-twitter"></i></a>
+											      <a class="twitter" href="https://twitter.com/YovuNinjas"><i class="fa fa-twitter"></i></a>
 											      <a class="facebook" href="https://www.facebook.com/yovuninjas"><i class="fa fa-facebook"></i></a>
-											      <a class="github" href="http://github.com/yovu"><i class="fa fa-github"></i></a>
+											      <a class="github" href="https://github.com/yovu"><i class="fa fa-github"></i></a>
 											    </span>
 											  </div>
 											</div>             
