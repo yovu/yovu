@@ -523,10 +523,7 @@
                     <div class="span5 offset1" style="margin-top: 64px;">
 											
 											<div class="contact-side">
-											  <div class="contact-phone">
-											    GIVE US A CALL
-											    <span>+1 333.333.3333</span>
-											  </div>
+											  
 											  <div class="contact-social">
 											    FOLLOW US
 											    <span>
