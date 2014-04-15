@@ -466,6 +466,26 @@
                         <form>
                             <input type="text" class="span12" placeholder="Name" required="required">
                             <input type="email" class="span12" placeholder="Email" required="required">
+														
+														<p style="margin: 0px;">I'd like to contact Yovu about:</p>
+														<div class="contact-subject">
+														  <label for="subject-features">
+														    <input id="subject-features" name="subject[]" type="checkbox" value="Features">
+														    Development
+														  </label>
+														  <label for="subject-scaling">
+														    <input id="subject-scaling" name="subject[]" type="checkbox" value="Scaling">
+														    Rescue
+														  </label>
+														  <label for="subject-apis">
+														    <input id="subject-apis" name="subject[]" type="checkbox" value="API's">
+														    Scaling
+														  </label>
+														  <label for="subject-other">
+														    <input id="subject-other" name="subject[]" type="checkbox" value="Other">
+														    Other
+														  </label>
+														</div>
                             <button type="submit" class="btn btn-primary">Send Your Message</button>
                         </form>
                     </div>

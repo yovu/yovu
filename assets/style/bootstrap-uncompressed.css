@@ -608,6 +608,20 @@
   margin-left: 10px; 
 }
 
+.contact-subject {
+	margin: 0px 0px 9px 0px;
+}
+
+.contact-subject label {
+	display: inline;
+	margin-right: 12px;
+	font-size: 18px;
+}
+
+.contact-subject label input {
+	margin: -3px 0px 0px 0px;
+}
+
 .page-contact {
   position: relative;
   padding-bottom: 50px;
