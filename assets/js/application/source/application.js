@@ -15,16 +15,15 @@ $(document).ready(function(){
 			},
 			submitHandler: function(form) { 
 				$.ajax({
-				    type: "POST",
+				    type: "GET",
 				    url: "/process/email",
 				    data: $(form).serialize(),
 				    success: function () {
-				        $(form).html("<div id='message'></div>");
-				        $('#message').html("<h2>Your request is on the way!</h2>")
-				            .append("<p>someone</p>")
+				        $(form).html("<div id='hitTheMessage'></div>");
+				        $('#hitTheMessage').html("<h4 style='color: #ffffff;'>Your message has been sent, we will contact you as soon as possible.</h4>")
 				            .hide()
 				            .fadeIn(1500, function () {
-				            $('#message').append("<img id='checkmark' src='images/ok.png' />");
+				            
 				        });
 				    }
 				});
