@@ -435,6 +435,7 @@
                             <div class="about-overlay img-circle">
                                 <div class="social-icons sicon-white">
                                     <a href="https://www.facebook.com/Maharba" class="sicon-facebook"><i>Facebook</i></a>
+																		<a href="http://www.twitter.com/Maharba" class="sicon-twitter"><i>Twitter</i></a>
                                 </div>
                             </div>
                         </div>
