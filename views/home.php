@@ -544,7 +544,7 @@
 
         <!-- Background map image -->
         <div id="map-image">
-            <img src="assets/images/pages/contact/map_bck.jpg" alt="Treble">
+            <img src="assets/images/pages/contact/map.png" alt="Treble">
         </div>
     </div>
     <!-- END PAGE | CONTACT -->
