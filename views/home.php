@@ -326,31 +326,7 @@
                 <!-- Testemonials -->
                 <div class="row-fluid">
                     <div class="span8 offset2">
-                        <div class="quote center">
-                            <div id="quote-slider" class="slide">
-                                <!-- Carousel items -->
-                                <div class="carousel-inner">
-                                    <div class="active item">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                        <h5>Happy client</h5>
-                                    </div>
-                                    <div class="item">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                        <h5>Happy client</h5>
-                                    </div>
-                                    <div class="item">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                        <h5>Happy client</h5>
-                                    </div>
-                                </div>
-                                <!-- Carousel indicators -->
-                                <ol class="carousel-indicators">
-                                    <li data-target="#quote-slider" data-slide-to="0" class="active"></li>
-                                    <li data-target="#quote-slider" data-slide-to="1"></li>
-                                    <li data-target="#quote-slider" data-slide-to="2"></li>
-                                </ol>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </article>
