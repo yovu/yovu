@@ -19,13 +19,13 @@ $(document).ready(function(){
 				    url: "/process/email",
 				    data: $(form).serialize(),
 				    success: function () {
-				        $(form).html("<div id='hitTheMessage'></div>");
-				        $('#hitTheMessage').html("<h4 style='color: #ffffff;'>Your message has been sent, we will contact you as soon as possible.</h4>")
-				            .hide()
-				            .fadeIn(1500, function () {
-				            
-				        });
-				    }
+				      $(form).html("<div id='hitTheMessage'></div>");
+				      $('#hitTheMessage').html("<h4 style='color: #ffffff;'>Your message has been sent, we will contact you as soon as possible.</h4>");
+				    },
+						error: function () {
+			        $(form).html("<div id='hitTheMessage'></div>");
+			        $('#hitTheMessage').html("<h4 style='color: #ffffff;'>There seems to be a problem please refresh and try again.</h4>");
+						}
 				});
 			  
 				return false;  //This doesn't prevent the form from submitting.
