@@ -321,7 +321,6 @@
             <header>
                 <h4 class="line-divider">Meet The Team</h4>
                 <h1>Today anybody can make a website, but not everybody can do it well.</h1>
-
             </header>
             <!-- End Header -->
 
@@ -333,15 +332,6 @@
                          <div class="item">
                             <!-- Team member image -->
                             <img style="width: 280px;" class="img-circle" src="/assets/images/pages/about/dan.jpg" alt="Yovu">
-
-                            <!-- Team memeber details, activated on hover -->
-                            <div class="about-overlay img-circle">
-                                <div class="social-icons sicon-white">
-                                    <a href="https://www.facebook.com/drkyro" class="sicon-facebook"><i>Facebook</i></a>
-                                    <a href="http://twitter.com/drkyro" class="sicon-twitter"><i>Twitter</i></a>
-                                    <a href="https://www.linkedin.com/pub/dainel-vera/54/b6/674" class="sicon-linkedin"><i>LinkedIn</i></a>
-                                </div>
-                            </div>
                         </div>
 
                         <!-- Team member name and function -->
@@ -353,13 +343,7 @@
                     </li>
                     <li class="span4 center">
                         <div class="item">
-                            <img style="width: 280px;" class="img-circle" src="/assets/images/pages/about/joshua.jpg" alt="Yovu">
-                            <div class="about-overlay img-circle">
-                                <div class="social-icons sicon-white">
-                                    <a href="https://www.facebook.com/TheDigit" class="sicon-facebook"><i>Facebook</i></a>
-                                    <a href="http://www.twitter.com/_joshuam_" class="sicon-twitter"><i>Twitter</i></a>
-                                </div>
-                            </div>
+                          <img style="width: 280px;" class="img-circle" src="/assets/images/pages/about/joshua.jpg" alt="Yovu">
                         </div>
 
                         <h5>
@@ -371,11 +355,6 @@
                     <li class="span4 center">
                         <div class="item">
                             <img style="width: 280px;" class="img-circle" src="/assets/images/pages/about/serguei.png" alt="Yovu">
-                            <div class="about-overlay img-circle">
-                                <div class="social-icons sicon-white">
-                                    <a href="https://www.facebook.com/kosovish" class="sicon-facebook"><i>Facebook</i></a>
-                                </div>
-                            </div>
                         </div>
 
                         <h5>
@@ -383,39 +362,6 @@
                             <small>SEO Director</small>
                         </h5>
                     </li>
-
-                    <li class="span4 center">
-                        <div class="item">
-                            <img style="width: 280px;" class="img-circle" src="/assets/images/pages/about/abraham.jpg" alt="Treble">
-                            <div class="about-overlay img-circle">
-                                <div class="social-icons sicon-white">
-                                    <a href="https://www.facebook.com/Maharba" class="sicon-facebook"><i>Facebook</i></a>
-																		<a href="http://www.twitter.com/Maharba" class="sicon-twitter"><i>Twitter</i></a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <h5>
-                            Abraham Chacon<br/>
-                            <small>Developer</small>
-                        </h5>
-                    </li>
-                    <li class="span4 center">
-                        <div class="item">
-                            <img style="width: 280px; height: 280px;" class="img-circle" src="/assets/images/pages/about/andres.jpg" alt="Yovu">
-                            <div class="about-overlay img-circle">
-                                <div class="social-icons sicon-white">
-                                    <a href="https://www.facebook.com/Andrewzz3" class="sicon-facebook"><i>Facebook</i></a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <h5>
-                            Andres Serrano<br/>
-                            <small>Developer</small>
-                        </h5>
-                    </li>
-
                 </ul>
             </article>
             <!-- End Article -->
